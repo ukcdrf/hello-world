@@ -9,7 +9,9 @@ some text
 some other text
 ## Header 2.1
 even more text ....
-# Header 3 
-this is the header of the readme-edits branch
-# Header 3.1
-- this is much more interesting in comparison to the main branch
+# Header 3
+here comes some boring text
+## Header 3.1
+wow, this is even more boring text
+## Header 3.2
+this is the most boring text I have ever read
